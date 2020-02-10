@@ -2,5 +2,5 @@
 
 this contains:
 - to do list
-- sample~~
+- Camping list
 
